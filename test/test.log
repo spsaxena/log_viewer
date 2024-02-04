@@ -1,0 +1,6 @@
+INFO | 2024-02-03T20:22:35.182388+0800 | exe: myexe | pid:8840 | tid:1 | Start 
+DEBUG | 2024-02-03T20:22:35.190154+0800 | exe: myexe | pid:8840 | tid:2 | Message
+ERROR | 2024-02-03T20:22:35.209539+0800 | exe: myexe | pid:8840 | tid:3 | Error message
+FATAL | 2024-02-03T20:22:35.209539+0800 | exe: myexe | pid:8840 | tid:2 | Fatal error
+Message next line spillover
+INFO | 2024-02-03T20:22:51.520595+0800 | exe: myexe | pid:8840 | tid:1 | -------------------------------------- Summary --------------------------------------
